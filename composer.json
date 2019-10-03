@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Theme_Green",
+    "name": "OpenMageModuleFostering\/Theme_Green",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Theme Green is a clean & easy installable Magento theme.",
     "authors": [
-    {
-        "name": "Go4Templage",
-        "email": "go4template@live.com"
-    }
-],
+        {
+            "name": "Go4Templage",
+            "email": "go4template@live.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
